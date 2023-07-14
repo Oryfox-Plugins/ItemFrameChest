@@ -1,0 +1,4 @@
+name: ItemFrameChestPlugin
+main: de.mitsuri.ItemFrameChest
+version: 1
+api-version: 1.20
